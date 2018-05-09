@@ -32,13 +32,52 @@ e.g. "In this three-hour workshop, students will learn about and apply design th
 * Learn the difference of what is passed in http vs https and what tools you can use to protect your data.
 
 #### 2) Vocabulary
-* Packets or Network Packet: A network packet is a formatted unit of data carried by a packet-switched network. A packet consists of control information and user data, which is also known as the payload. Control information provides data for delivering the payload, for example: source and destination network addresses, error detection codes, and sequencing information. Typically, control information is found in packet headers and trailers. 
-* Packet Sniffer: A packet inspection tool is software running on a computer that allows you to look at all the network traffic that is being sent and received on the network you are currently connected to. The range of activity this lets you monitor includes your browser traffic, your operating system sending bug reports, services like Dropbox and Spotify talking to their servers and content streaming to devices such as Apple Tvs and Sonos speakers, and your internet of things devices talking on the internet.
-* Addresses: The routing of network packets requires two network addresses, the source address of the sending host, and the destination address of the receiving host.
-* Payload: In general, payload is the data that is carried on behalf of an application. It is usually of variable length, up to a maximum that is set by the network protocol and sometimes the equipment on the route. When necessary, some networks can break a larger packet into smaller packets.
+
+* Network - A network is a collection of terminal nodes, links are connected to enable telecommunication between the terminals. The transmission links connect the nodes together. The nodes use circuit switching, message switching or packet switching to pass the signal through the correct links and nodes to reach the correct destination terminal.
+Each terminal in the network usually has a unique address so messages or connections can be routed to the correct recipients. The collection of addresses in the network is called the address space.
+
+* Node - A physical network node is an active electronic device that is attached to a network, and is capable of creating, receiving, or transmitting information over a communications channel.
+
+* Router - the device that forwards, or routes, data packets along to where they’re supposed to go based on the addresses in the packet headers.
+
+* Ethernet - is a computer networking technology commonly used in local area networks (LAN), metropolitan area networks (MAN) and wide area networks (WAN).
+
+* Internet Service Provider (ISP) - There are many kinds of internet service providers, but in this case we're talking about access providers. These are the companies that install cable in your neighborhood and often supply your router when you set up your internet in your home. ISPs hold a lot of power because they physically control the flow of data. 
+
+* Website - the collection of files—from style files, scripts, images, and plain text—that you request from the server and that are ultimately rendered on your computer by your browser.
+
+* Server - the computer that hosts websites and makes them publicly available through a URL. the server responds to client requests. any computer can be both a server or client—it just depends what role the computer is playing. is the computer serving files or requesting files? when people use the metaphor of 'the cloud' to talk about file storage, they're talking about a server or just "another person's computer."
+
+* Transmission Control Protocol (TCP) - is one of the main protocols of the Internet protocol suite, therefore the entire suite is commonly referred to as TCP/IP. TCP provides reliable, ordered, and error-checked delivery of a stream of octets (bytes) between applications running on hosts communicating via an IP network. Major Internet applications such as the World Wide Web, email, remote administration, and file transfer rely on TCP. 
+
+* Hyper Text Transfer Protocol (HTTP) & HTTP Secure (HTTPS) - The protocol over which data is sent between your browser and the website that you are connected to. The 'S' at the end of HTTPS stands for 'Secure' and means all communications between your browser and the website are encrypted. 
+
+* MAC address (media access control) - a unique identifier assigned to a device at the data link layer of a network segment. MAC addresses are used as a network address for most IEEE 802 network technologies, including Ethernet and Wi-Fi. 
+MAC addresses are most often assigned by the manufacturer of a network interface controller (NIC) and are stored in its hardware, such as the card's read-only memory or some other firmware mechanism. In brief, MAC address is like a social security number which remains unchanged for a person's life time (here, the device), while an IP address is like a postal code which can be changed.
+
+* IP address (Internet Protocol address) - Numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication. An IP address serves two principal functions: host or network interface identification and location addressing. The IP address space is managed globally by the Internet Assigned Numbers Authority (IANA), and by five regional Internet registries (RIRs) responsible in their designated territories for assignment to end users and local Internet registries, such as Internet service providers. Each ISP or private network administrator assigns an IP address to each device connected to its network. Such assignments may be on a static (fixed or permanent) or dynamic basis. 
+
+* Port - A port is an endpoint of communication in an operating system. A port is always associated with an IP address of a host and the protocol type of the communication. It completes the destination or origination network address of a message. Ports are identified for each protocol and address combination by 16-bit unsigned numbers, commonly known as the port number.
+
+* Packets or Network Packet -  A network packet is a formatted unit of data carried by a packet-switched network. A packet consists of control information and user data, which is also known as the payload. Control information provides data for delivering the payload, for example: source and destination network addresses, error detection codes, and sequencing information. Typically, control information is found in packet headers and trailers. 
+
+* Packet Sniffer -  A packet inspection tool is software running on a computer that allows you to look at all the network traffic that is being sent and received on the network you are currently connected to. The range of activity this lets you monitor includes your browser traffic, your operating system sending bug reports, services like Dropbox and Spotify talking to their servers and content streaming to devices such as Apple Tvs and Sonos speakers, and your internet of things devices talking on the internet.
+
+* Addresses - The routing of network packets requires two network addresses, the source address of the sending host, and the destination address of the receiving host.
+
+* Payload - In general, payload is the data that is carried on behalf of an application. It is usually of variable length, up to a maximum that is set by the network protocol and sometimes the equipment on the route. When necessary, some networks can break a larger packet into smaller packets.
+
+
+
+
       
 #### 3) Prerequisites & Pre-Assessment 
 Any coding languages they should already be comfortable with, any frameworks or tools they should have installed before class or any readings and exercises they should complete before class.
+
+Read before class:
+* [The House That Spied on Me](https://gizmodo.com/the-house-that-spied-on-me-1822429852)
+* Whistleblower Mark Klein describes how the [NSA was collecting internet communications by interfering in an ISP's physical infrastructure.](https://www.wired.com/2013/06/nsa-whistleblower-klein/) 
+* Read how ISPs are allowed [to sell our browsing data to private companies.](https://www.washingtonpost.com/news/the-switch/wp/2017/03/29/what-to-expect-now-that-internet-providers-can-collect-and-sell-your-web-browser-history/?utm_term=.e90fcb9af5f6)
 
 ## Exercise Descriptions
 Descriptions of each exercise or phase of class. These should be able to be broken out to be taught independently for a shorter class setting or all together for an after school program.
