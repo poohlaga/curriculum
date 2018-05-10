@@ -28,10 +28,9 @@ This workshop is intended for adults, young and old. This workshop is ideal for 
   - :20 Instruction & hands on exercise 
   - :15 Wrap-up discussion & sharing, reflection or journal and next steps
 
-### Materials
+### Materials Needed & Exercises To Do Before Class
 You will need a Mac to run Herbivore :( . But all is not lost! Even if you dont have a Mac you can still learn a whole bunch. We encourage participants to work together and share computers.
       
-#### 3) Prerequisites & Pre-Assessment 
 1. Install [Herbivore](https://github.com/samatt/herbivore) on your Mac. Connect to your home network and take a loot around. Make some notes:
    1. how many devices are connected - what are they?
    1. where there any devices on your home network that surprised you?
@@ -45,17 +44,6 @@ You will need a Mac to run Herbivore :( . But all is not lost! Even if you dont 
 
 ## Exercise Descriptions
 *this will be filled in after class*
-
-## Student Reflections, Takeaways & Next Steps
-These are additional materials to leave with to dig deeper into the subject or additional exercises and challenges to help  progress your knowledge to the next level and gain mastery of the subject through independent study.
-- RPi IoT home network monitor to log activity (@surya link?)
-- Download Wireshark and dig deeper [How To Go From 0 to Sniffing Packets in 10 Minutes](https://motherboard.vice.com/en_us/article/jpgmxp/how-to-go-from-0-to-sniffing-packets-in-10-minutes)
-
-???
-- [Packet Sniffing in Python](http://nifty.stanford.edu/2015/matthews-raymond-packet-sniffing/)
-- Open Frameworks based visualization tool showing [Images of the Network](https://github.com/HalfdanJ/ImagesOfTheNetwork)
-- Presentation: how might students share their work? With peers, outside world? What media or platforms could/should be referenced to students to encourage sharing (instagram, tumblr...)? 
-- Reflection: reflection questions that ask students to think about CS concepts and practices. How can students express what they’ve learned in some creative way?
 
 #### 2) Vocabulary
 
@@ -95,6 +83,17 @@ MAC addresses are most often assigned by the manufacturer of a network interface
 
 ## References
 - [How the Internet Works (in 5 minutes)](https://www.youtube.com/watch?v=7_LPdttKXPc&feature=youtu.be)
+
+## Student Reflections, Takeaways & Next Steps
+These are additional materials to leave with to dig deeper into the subject or additional exercises and challenges to help  progress your knowledge to the next level and gain mastery of the subject through independent study.
+- RPi IoT home network monitor to log activity (@surya link?)
+- Download Wireshark and dig deeper [How To Go From 0 to Sniffing Packets in 10 Minutes](https://motherboard.vice.com/en_us/article/jpgmxp/how-to-go-from-0-to-sniffing-packets-in-10-minutes)
+
+???
+- [Packet Sniffing in Python](http://nifty.stanford.edu/2015/matthews-raymond-packet-sniffing/)
+- Open Frameworks based visualization tool showing [Images of the Network](https://github.com/HalfdanJ/ImagesOfTheNetwork)
+- Presentation: how might students share their work? With peers, outside world? What media or platforms could/should be referenced to students to encourage sharing (instagram, tumblr...)? 
+- Reflection: reflection questions that ask students to think about CS concepts and practices. How can students express what they’ve learned in some creative way?
 
 ## Post Session, Implementation Guidance &  Teaching Reflection
 e.g. Please provide some guidance based on experience delivering the unit and potential modifications might you are considering making for future iterations of this unit. This is an opportunity for you as the unit author to give teachers practical guidance.
