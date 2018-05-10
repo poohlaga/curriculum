@@ -1,7 +1,7 @@
 ## Understanding the Internet through Herbivore
 
 ## Authors
-Herbivore is made and maintained by [Surya Mattu](https://github.com/samatt) and Jen Kagan. Ingrid Burrington, Eve Weinber and Pedro Galvao Cesar De Oliveira have also contributed to the project. Herbivore was made with the support of NYU's Interactive Telecommunications Program and their Something-In-Residence fellowship. Curriculum written by Lauren Gardner.
+Herbivore is made and maintained by [Surya Mattu](https://github.com/samatt) and [Jen Kagan](https://github.com/kaganjd). [Ingrid Burrington](https://github.com/lifewinning), [Eve Weinberg](https://github.com/evejweinberg) and Pedro Galvao Cesar De Oliveira have also contributed to the project. Herbivore was made with the support of NYU's Interactive Telecommunications Program and their Something-In-Residence fellowship. Curriculum written by Lauren Gardner.
 
 ## Essential Questions
 - What information is my computer sharing about me or my online activity?
@@ -47,10 +47,14 @@ You will need a Mac to run Herbivore :( . But all is not lost! Even if you dont 
    1. Read how ISPs are allowed [to sell our browsing data to private companies.](https://www.washingtonpost.com/news/the-switch/wp/2017/03/29/what-to-expect-now-that-internet-providers-can-collect-and-sell-your-web-browser-history/?utm_term=.e90fcb9af5f6)
 
 ## Exercise Descriptions
-Descriptions of each exercise or phase of class. These should be able to be broken out to be taught independently for a shorter class setting or all together for an after school program.
+*this will be filled in after class*
 
 ## Student Reflections, Takeaways & Next Steps
-- Additional materials for the students to leave with that can help them dig deeper into the subject or additional exercises and challenges to help students progress their knowledge to the next leve and gain mastery of the subject through independent study.
+These are additional materials to leave with to dig deeper into the subject or additional exercises and challenges to help  progress your knowledge to the next level and gain mastery of the subject through independent study.
+- RPi IoT home network monitor to log activity (@surya link?)
+- Download Wireshark and dig deeper [How To Go From 0 to Sniffing Packets in 10 Minutes](https://motherboard.vice.com/en_us/article/jpgmxp/how-to-go-from-0-to-sniffing-packets-in-10-minutes)
+
+???
 - [Packet Sniffing in Python](http://nifty.stanford.edu/2015/matthews-raymond-packet-sniffing/)
 - Open Frameworks based visualization tool showing [Images of the Network](https://github.com/HalfdanJ/ImagesOfTheNetwork)
 - Presentation: how might students share their work? With peers, outside world? What media or platforms could/should be referenced to students to encourage sharing (instagram, tumblr...)? 
