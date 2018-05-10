@@ -1,18 +1,28 @@
 ## Understanding the Internet through Herbivore
 
 ## Authors
-Herbivore is made and maintained by Surya Mattu and Jen Kagan. Ingrid Burrington, Eve Weinber and Pedro Galvao Cesar De Oliveira have also contributed to the project. Herbivore was made with the support of NYU's Interactive Telecommunications Program and their Something-In-Residence fellowship. Curriculum written by Lauren Gardner.
+Herbivore is made and maintained by [Surya Mattu](https://github.com/samatt) and Jen Kagan. Ingrid Burrington, Eve Weinber and Pedro Galvao Cesar De Oliveira have also contributed to the project. Herbivore was made with the support of NYU's Interactive Telecommunications Program and their Something-In-Residence fellowship. Curriculum written by Lauren Gardner.
 
-## Essential Question
+## Essential Questions
 - What information is my computer sharing about me or my online activity?
+- How does HTTP vs. HTTPS really affect my online security?
+- What information are my IoT devices at home sharing?
 
 ## Introduction
 We will user [Herbivore](https://github.com/samatt/herbivore), an open source tool that aims to demistify the world of network packets for the uninitiated. Herbivore is a free, open source tool that shows users the data packets that travel between their computers and the internet. By surfacing this information, we hope to demystify how the internet works and make network literacy accessible to a much wider audience.
+
 A handful of packet sniffing libraries and desktop applications already exist for analyzing network packets, but were designed for people who have programming experience or a network engineering background; they were not designed as educational tools for people without technical backgrounds. 
-In this workshop we will go through the basics of what packet sniffing means and let you try it out yourself.
+
+## Outcomes & Goals
+In this workshop we will go through the basics of what packet sniffing means and supply you with the knowledge and tools to enable you to monitor this activity at home. **This is not a hacking workshop,** *we will be teaching you skills to do packet sniffing on your home network.*
+
+Students will learn how to install software used to monitor the internet traffic occuring on devices in your home network and how to interpret the data that is being passed. You'll also walk away with a better understanding of computer networking and the stack that is used in most commercial applications.
 
 ### Target Audience / Prerequisite & Pre-Assessment
 This workshop is intended for adults, young and old. This workshop is ideal for those who are interested in learning how to packet sniff or learn what that even means. 
+
+e.g. "In this three-hour workshop, students will learn about and apply design thinking in the speculative design scenario, then translate their solutions into an interactive 2D single scene game format built in Unity. It includes an introduction to Unity and hands-on coding in Javascript."
+* Learn the difference of what is passed in http vs https and what tools you can use to protect your data.
 
 ### Pacing / Duration
 
@@ -23,13 +33,28 @@ This workshop is intended for adults, young and old. This workshop is ideal for 
 
 ### Materials
 You will need a Mac to run Herbivore :( . But all is not lost! Even if you dont have a Mac you can still learn a whole bunch. We encourage participants to work together and share computers.
+      
+#### 3) Prerequisites & Pre-Assessment 
+1. Install [Herbivore](https://github.com/samatt/herbivore) on your Mac. Connect to your home network and take a loot around. Make some notes:
+   1. how many devices are connected - what are they?
+   1. where there any devices on your home network that surprised you?
+   1. which device send the most information or communicates most frequently?
+   1. what else do you see that suprises you or that you have questions about?
 
-## Outcomes & Goals
-This section has three parts
+2. Read before class:
+   1. [The House That Spied on Me](https://gizmodo.com/the-house-that-spied-on-me-1822429852)
+   1. Whistleblower Mark Klein describes how the [NSA was collecting internet communications by interfering in an ISP's physical infrastructure.](https://www.wired.com/2013/06/nsa-whistleblower-klein/) 
+   1. Read how ISPs are allowed [to sell our browsing data to private companies.](https://www.washingtonpost.com/news/the-switch/wp/2017/03/29/what-to-expect-now-that-internet-providers-can-collect-and-sell-your-web-browser-history/?utm_term=.e90fcb9af5f6)
 
-#### 1) Provide an overview paragraph that describes briefly the technical concepts and skills covered in the unit;
-e.g. "In this three-hour workshop, students will learn about and apply design thinking in the speculative design scenario, then translate their solutions into an interactive 2D single scene game format built in Unity. It includes an introduction to Unity and hands-on coding in Javascript."
-* Learn the difference of what is passed in http vs https and what tools you can use to protect your data.
+## Exercise Descriptions
+Descriptions of each exercise or phase of class. These should be able to be broken out to be taught independently for a shorter class setting or all together for an after school program.
+
+## Student Reflections, Takeaways & Next Steps
+- Additional materials for the students to leave with that can help them dig deeper into the subject or additional exercises and challenges to help students progress their knowledge to the next leve and gain mastery of the subject through independent study.
+- [Packet Sniffing in Python](http://nifty.stanford.edu/2015/matthews-raymond-packet-sniffing/)
+- Open Frameworks based visualization tool showing [Images of the Network](https://github.com/HalfdanJ/ImagesOfTheNetwork)
+- Presentation: how might students share their work? With peers, outside world? What media or platforms could/should be referenced to students to encourage sharing (instagram, tumblr...)? 
+- Reflection: reflection questions that ask students to think about CS concepts and practices. How can students express what they’ve learned in some creative way?
 
 #### 2) Vocabulary
 
@@ -66,28 +91,6 @@ MAC addresses are most often assigned by the manufacturer of a network interface
 * Addresses - The routing of network packets requires two network addresses, the source address of the sending host, and the destination address of the receiving host.
 
 * Payload - In general, payload is the data that is carried on behalf of an application. It is usually of variable length, up to a maximum that is set by the network protocol and sometimes the equipment on the route. When necessary, some networks can break a larger packet into smaller packets.
-
-
-
-
-      
-#### 3) Prerequisites & Pre-Assessment 
-Any coding languages they should already be comfortable with, any frameworks or tools they should have installed before class or any readings and exercises they should complete before class.
-
-Read before class:
-* [The House That Spied on Me](https://gizmodo.com/the-house-that-spied-on-me-1822429852)
-* Whistleblower Mark Klein describes how the [NSA was collecting internet communications by interfering in an ISP's physical infrastructure.](https://www.wired.com/2013/06/nsa-whistleblower-klein/) 
-* Read how ISPs are allowed [to sell our browsing data to private companies.](https://www.washingtonpost.com/news/the-switch/wp/2017/03/29/what-to-expect-now-that-internet-providers-can-collect-and-sell-your-web-browser-history/?utm_term=.e90fcb9af5f6)
-
-## Exercise Descriptions
-Descriptions of each exercise or phase of class. These should be able to be broken out to be taught independently for a shorter class setting or all together for an after school program.
-
-## Student Reflections, Takeaways & Next Steps
-- Additional materials for the students to leave with that can help them dig deeper into the subject or additional exercises and challenges to help students progress their knowledge to the next leve and gain mastery of the subject through independent study.
-- [Packet Sniffing in Python](http://nifty.stanford.edu/2015/matthews-raymond-packet-sniffing/)
-- Open Frameworks based visualization tool showing [Images of the Network](https://github.com/HalfdanJ/ImagesOfTheNetwork)
-- Presentation: how might students share their work? With peers, outside world? What media or platforms could/should be referenced to students to encourage sharing (instagram, tumblr...)? 
-- Reflection: reflection questions that ask students to think about CS concepts and practices. How can students express what they’ve learned in some creative way?
 
 ## References
 - [How the Internet Works (in 5 minutes)](https://www.youtube.com/watch?v=7_LPdttKXPc&feature=youtu.be)
