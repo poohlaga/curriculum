@@ -21,9 +21,6 @@ Students will learn how to install software used to monitor the internet traffic
 ### Target Audience / Prerequisite & Pre-Assessment
 This workshop is intended for adults, young and old. This workshop is ideal for those who are interested in learning how to packet sniff or learn what that even means. 
 
-e.g. "In this three-hour workshop, students will learn about and apply design thinking in the speculative design scenario, then translate their solutions into an interactive 2D single scene game format built in Unity. It includes an introduction to Unity and hands-on coding in Javascript."
-* Learn the difference of what is passed in http vs https and what tools you can use to protect your data.
-
 ### Pacing / Duration
 
 - Break down of the class schedule example: 
