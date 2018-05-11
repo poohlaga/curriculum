@@ -22,11 +22,7 @@ Students will learn how to install software used to monitor the internet traffic
 This workshop is intended for adults, young and old. This workshop is ideal for those who are interested in learning how to packet sniff or learn what that even means. 
 
 ### Pacing / Duration
-
-- Break down of the class schedule example: 
-  - :15 Overview, context, examples and vocabulary 
-  - :20 Instruction & hands on exercise 
-  - :15 Wrap-up discussion & sharing, reflection or journal and next steps
+tbd
 
 ### Materials Needed & Exercises To Do Before Class
 You will need a Mac to run Herbivore :( . But all is not lost! Even if you dont have a Mac you can still learn a whole bunch. We encourage participants to work together and share computers.
