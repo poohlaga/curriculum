@@ -83,7 +83,7 @@ MAC addresses are most often assigned by the manufacturer of a network interface
 ## Student Reflections, Takeaways & Next Steps
 These are additional materials to leave with to dig deeper into the subject or additional exercises and challenges to help  progress your knowledge to the next level and gain mastery of the subject through independent study.
 - RPi IoT home network monitor to log activity (@surya link?)
-- Download Wireshark and dig deeper [How To Go From 0 to Sniffing Packets in 10 Minutes](https://motherboard.vice.com/en_us/article/jpgmxp/how-to-go-from-0-to-sniffing-packets-in-10-minutes)
+- Download [Wireshark](https://www.wireshark.org/) and dig deeper [How To Go From 0 to Sniffing Packets in 10 Minutes](https://motherboard.vice.com/en_us/article/jpgmxp/how-to-go-from-0-to-sniffing-packets-in-10-minutes)
 
 ???
 - [Packet Sniffing in Python](http://nifty.stanford.edu/2015/matthews-raymond-packet-sniffing/)
