@@ -82,11 +82,15 @@ MAC addresses are most often assigned by the manufacturer of a network interface
 
 ## Student Reflections, Takeaways & Next Steps
 These are additional materials to leave with to dig deeper into the subject or additional exercises and challenges to help  progress your knowledge to the next level and gain mastery of the subject through independent study.
-- RPi IoT home network monitor to log activity (@surya link?)
+- [Your smart home is spying on you. Here's how to spy back](https://fieldguide.gizmodo.com/your-smart-home-is-spying-on-you-here-s-how-to-spy-bac-1822939698)
+- [Raspberry Pi packet sniffing router](https://github.com/GMG-Special-Projects-Desk/iotea)
 - Download [Wireshark](https://www.wireshark.org/) and dig deeper [How To Go From 0 to Sniffing Packets in 10 Minutes](https://motherboard.vice.com/en_us/article/jpgmxp/how-to-go-from-0-to-sniffing-packets-in-10-minutes)
 
-???
+- [Debookee](https://debookee.com/) easy packet sniffer for mac
 - [Packet Sniffing in Python](http://nifty.stanford.edu/2015/matthews-raymond-packet-sniffing/)
+- [mitmproxy](https://mitmproxy.org) - Advanced but powerful packet sniffer
+- [NYU ITP Understanding Networks](https://itp.nyu.edu/networks/resources/)
+- [The internet is made of packets - workshop](https://www.whatisit.tech/packets/index.html)
 - Open Frameworks based visualization tool showing [Images of the Network](https://github.com/HalfdanJ/ImagesOfTheNetwork)
 - Presentation: how might students share their work? With peers, outside world? What media or platforms could/should be referenced to students to encourage sharing (instagram, tumblr...)? 
 - Reflection: reflection questions that ask students to think about CS concepts and practices. How can students express what they’ve learned in some creative way?
