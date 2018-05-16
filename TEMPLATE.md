@@ -27,11 +27,11 @@ tbd
 ### Materials Needed & Exercises To Do Before Class
 You will need a Mac to run Herbivore :( . But all is not lost! Even if you dont have a Mac you can still learn a whole bunch. We encourage participants to work together and share computers.
       
-1. Install [Herbivore](https://github.com/samatt/herbivore) on your Mac. Connect to your home network and take a loot around. Make some notes:
+1. Install [Herbivore](https://github.com/samatt/herbivore) on your Mac. Connect to your home network and take a look around. Make some notes:
    1. how many devices are connected - what are they?
-   1. where there any devices on your home network that surprised you?
+   1. where there any devices on your home network that you can not identify?
    1. which device send the most information or communicates most frequently?
-   1. what else do you see that suprises you or that you have questions about?
+   1. what else do you see that surprises you or that you have questions about?
 
 2. Read before class:
    1. [The House That Spied on Me](https://gizmodo.com/the-house-that-spied-on-me-1822429852)
