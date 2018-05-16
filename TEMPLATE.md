@@ -35,7 +35,7 @@ You will need a Mac to run Herbivore :( . But all is not lost! Even if you dont 
 
 2. Read/watch before class:
    1. [How the Internet Works (in 5 minutes)](https://www.youtube.com/watch?v=7_LPdttKXPc&feature=youtu.be)
-   1. [What is a Packet?](http://networks.land/reference/packets/), from [Networks.Land](http://networks.land/), tools and activities for understanding the internet from the ground up by Ingrid Burrington and Surya Mattu.
+   1. [What is a Packet?](http://networks.land/reference/packets/), from Networks Land.
    1. [The House That Spied on Me](https://gizmodo.com/the-house-that-spied-on-me-1822429852)
    1. Whistleblower Mark Klein describes how the [NSA was collecting internet communications by interfering in an ISP's physical infrastructure.](https://www.wired.com/2013/06/nsa-whistleblower-klein/) 
    1. Read how ISPs are allowed [to sell our browsing data to private companies.](https://www.washingtonpost.com/news/the-switch/wp/2017/03/29/what-to-expect-now-that-internet-providers-can-collect-and-sell-your-web-browser-history/?utm_term=.e90fcb9af5f6)
@@ -88,11 +88,11 @@ These are additional materials to leave with to dig deeper into the subject or a
 ***First Steps***
 - [The internet is made of packets - workshop](https://www.whatisit.tech/packets/index.html)
 - [Your smart home is spying on you. Here's how to spy back](https://fieldguide.gizmodo.com/your-smart-home-is-spying-on-you-here-s-how-to-spy-bac-1822939698), a step by step tutorial by Surya on how to set up a RaspberryPi to monitor the digital emissions from your own homes.
+- Read through [Networks.Land](http://networks.land/), tools and activities for understanding the internet from the ground up by Ingrid Burrington and Surya Mattu.
 - [NYU ITP, Understanding Networks](https://itp.nyu.edu/networks/), the syllabus for Thomas Igoe's class taught at NYU ITP.
 
 ***Next Steps***
 - [Debookee](https://debookee.com/) easy packet sniffer for mac
-- [Raspberry Pi packet sniffing router](https://github.com/GMG-Special-Projects-Desk/iotea)
 - Download [Wireshark](https://www.wireshark.org/) and dig deeper [How To Go From 0 to Sniffing Packets in 10 Minutes](https://motherboard.vice.com/en_us/article/jpgmxp/how-to-go-from-0-to-sniffing-packets-in-10-minutes)
 - [Wireshark 101](http://samatt.github.io/all/teaching/2013/11/01/packet-sniffing/), a more advanced tutorial using wireshark  to sniff packets and inject them in a network. 
 
